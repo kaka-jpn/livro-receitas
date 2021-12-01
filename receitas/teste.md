@@ -1,7 +1,0 @@
-# teste 
-
-**teste** 
-
-- teste
-
-  
